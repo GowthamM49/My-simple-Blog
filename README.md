@@ -1,1 +1,1 @@
-# My-Blog
+This personal blog includes sections for bio, education, background, interests, and mission, using tables, lists, and links. A header provides navigation, while the main content presents personal details and qualifications. The footer links to LinkedIn and GitHub for easy connection.
